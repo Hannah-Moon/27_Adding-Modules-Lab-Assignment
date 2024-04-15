@@ -8,10 +8,14 @@ export async function fetchImages() {
       }
       const data = await response.json();
       const imageContainer = document.getElementById("imageContainer");
-      data.slice(0, 24).forEach(photo => { // Slice the data to get only the first 4 photos
+      data.slice(0, 4).forEach(photo => { // Slice the data to get only the first 4 photos
         const image = document.createElement("img");
         image.src = photo.url;
         image.alt = photo.title;
+        image.style.width = "150px"; // Set width of thumbnail
+        image.style.height = "150px"; // Set height of thumbnail
+        image.style.marginRight = "10px"; // Set margin between images
+        image.style.marginBottom = "5px"; // Set margin between images
         imageContainer.appendChild(image);
       });
     } catch (error) {
