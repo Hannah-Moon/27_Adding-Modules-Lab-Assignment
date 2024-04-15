@@ -12,6 +12,11 @@
 
 </div>
 
+## Requirement 
+    ○ Using the starter code make a fetch() request to JsonPlaceHolder API
+    ○ URL: https://jsonplaceholder.typicode.com/Links to an external site.
+    ○ Add a section on html that displays fetched information. 
+    ○ Put the fetch() and results in a separate module and call it from another file. 
 
 ## Live Demo
 
