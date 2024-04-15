@@ -15,4 +15,4 @@
 
 ## Live Demo
 
-> **Please click this link** :  https://hannah-moon.github.io/24_SBA_308A_JavaScript-Web-Application/<br>
+> **Please click this link** :  https://hannah-moon.github.io/27_Adding-Modules-Lab-Assignment/<br>
