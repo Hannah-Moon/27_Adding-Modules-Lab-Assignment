@@ -3,11 +3,11 @@
 </h2>
 
 <h3 align="center">
-  Fetch comments and thubnails! 
+  Fetch comments and thumbnail data and display them for users. 
 </h3>
 
 <div align="center">
-<img width="700" alt="image" src=".gif">
+<img width="700" alt="image" src="assets/fatch.gif">
 
 
 </div>
