@@ -7,7 +7,7 @@
 </h3>
 
 <div align="center">
-<img width="700" alt="image" src="assets/fatch.gif">
+<img width="700" alt="image" src="assets/fetch.gif">
 
 
 </div>
